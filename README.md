@@ -1,5 +1,3 @@
 # ctrls
 
-## Ctrl+S
-
-### Our Saviour
+Source code for https://ctrls.ca
